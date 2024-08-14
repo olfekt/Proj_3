@@ -1,0 +1,96 @@
+body {
+  min-width: 850px;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 65px;
+  color: white;
+  font-family: William, serif;
+  font-weight: normal;
+  font-size: 31px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+h2 {
+  margin-top: 0;
+  margin-bottom: 35px;
+  color: white;
+  font-family: Inter, sans-serif;
+  font-size: 31px;
+  text-transform: uppercase;
+}
+
+
+
+
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  width: 500px;
+  margin: 0 auto;
+
+
+  
+  color: white;
+  font-family: William, serif;
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-style: italic;
+  
+  
+  
+  
+  text-align: center;
+  text-transform: uppercase;
+
+
+  margin-top: -55px; /* поднимет абзацы на 50px */
+}    
+
+
+
+
+
+img {
+  width: 310px;
+  margin-bottom: 80px;
+}
+
+div {
+  width: 570px;
+  height: 570px;
+  text-align: center;
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  margin: 100px auto 0; /* опускаем блок на 100px от верха */
+}
+
+h3 {
+  margin: 0;
+  color: white;
+  font-family: Inter, sans-serif;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-top: -45px;
+}
+
+
+
+
+a {
+  color: white; /* Цвет текста ссылки */
+  font-family: William, serif;
+  font-weight: bold;
+  font-size: 17px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+a:visited {
+  color: white; /* Цвет текста посещённой ссылки */
+}
